@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.xihadulislam:androidUtils:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/rajuDa/caches/transforms-2/files-2.1/a47184823e666b929cbb6e14545b97e4/jetified-androidUtils-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/rajuDa/caches/transforms-2/files-2.1/a47184823e666b929cbb6e14545b97e4/jetified-androidUtils-1.0.5/res" />
+      <root url="file://$USER_HOME$/rajuDa/caches/transforms-2/files-2.1/a47184823e666b929cbb6e14545b97e4/jetified-androidUtils-1.0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a47184823e666b929cbb6e14545b97e4/jetified-androidUtils-1.0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a47184823e666b929cbb6e14545b97e4/jetified-androidUtils-1.0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a47184823e666b929cbb6e14545b97e4/jetified-androidUtils-1.0.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/rajuDa/caches/modules-2/files-2.1/com.github.xihadulislam/AndroidUtils/1.0.5/22a960e34a5952d1940dd8aee6db987ffb2e87d/androidUtils-1.0.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.xihadulislam/androidUtils/1.0.5/22a960e34a5952d1940dd8aee6db987ffb2e87d/androidUtils-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
